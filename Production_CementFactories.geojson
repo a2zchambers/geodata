@@ -1,0 +1,2057 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.031528,
+                    34.703235
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Birmingham Slag",
+                "FacilityType": "Slag",
+                "Address": "3955 Buford Hwy",
+                "City": "Duluth",
+                "State": "GA",
+                "Zip": "30096"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.11017699,
+                    30.55093958
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Theodore Plant",
+                "FacilityType": "Plant",
+                "Address": "3051 Hamilton Blvd",
+                "City": "Theodore",
+                "State": "AL",
+                "Zip": "36582"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.59642135,
+                    33.68248806
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Hope Terminal",
+                "FacilityType": "Terminal",
+                "Address": "100 Dairy St",
+                "City": "Hope",
+                "State": "AR",
+                "Zip": "71801"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.8089333,
+                    38.81744405
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Colorado Springs Alternative Fuels Site",
+                "FacilityType": "FuelsSite",
+                "Address": "1170 Transit Dr",
+                "City": "Colorado Springs",
+                "State": "CO",
+                "Zip": "80903"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.0013742,
+                    39.7923621
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Denver Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "1001 W 52nd Ave",
+                "City": "Denver",
+                "State": "CO",
+                "Zip": "80221"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.1320607,
+                    40.65607759
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Ft. Collins Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "3060 W County Rd 56",
+                "City": "Fort Collins",
+                "State": "CO",
+                "Zip": "80524"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.8089977,
+                    38.81761124
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Portland Cement Plant",
+                "FacilityType": "Plant",
+                "Address": "3500 State Hwy 120",
+                "City": "Florence",
+                "State": "CO",
+                "Zip": "81226"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.8090835,
+                    38.81734374
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Rifle Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "6 24 Hwy",
+                "City": "Rifle",
+                "State": "CO",
+                "Zip": "81650"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.9024877,
+                    41.29493461
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "New Haven East Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "410 Waterfront St",
+                "City": "New Haven",
+                "State": "CT",
+                "Zip": "6512"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.35433395,
+                    33.56403271
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Bag Warehouse",
+                "FacilityType": "Warehouse",
+                "Address": "1115 Southern Rd",
+                "City": "Morrow",
+                "State": "GA",
+                "Zip": "30260"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.75753814,
+                    34.26734813
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Cartersville Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "2961 Hwy 411",
+                "City": "White",
+                "State": "GA",
+                "Zip": "30184"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.83175232,
+                    33.61637508
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Covington Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "12143 Independence Dr",
+                "City": "Covington",
+                "State": "GA",
+                "Zip": "30014"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.16302951,
+                    33.97895533
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Duluth Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "3955 Buford Hwy NE",
+                "City": "Duluth",
+                "State": "GA",
+                "Zip": "30096"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.9458343,
+                    42.92703494
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Bliss Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "350 Proctor St",
+                "City": "Bliss",
+                "State": "ID",
+                "Zip": "83314"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.93424563,
+                    41.70502964
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Lemont Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "12805 Grant Rd",
+                "City": "Lemont",
+                "State": "IL",
+                "Zip": "60439"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.46783202,
+                    40.43229907
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Indian Creek Landfill",
+                "FacilityType": "Landfill",
+                "Address": "24501 McMullen Rd",
+                "City": "Hopedale",
+                "State": "IL",
+                "Zip": "61747"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.87635988,
+                    37.23129779
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Joppa Cement Plant",
+                "FacilityType": "Plant",
+                "Address": "2500 Portland Rd",
+                "City": "Grand Chain",
+                "State": "IL",
+                "Zip": "62941"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.11798294,
+                    41.48256795
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Port of Will County Terminal",
+                "FacilityType": "Terminal",
+                "Address": "1945 Patterson Rd",
+                "City": "Joliet",
+                "State": "IL",
+                "Zip": "60436"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.57144352,
+                    41.66042661
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "South Chicago Cement Terminal/Slag",
+                "FacilityType": "Terminal",
+                "Address": "2150 E 130th St",
+                "City": "Chicago",
+                "State": "IL",
+                "Zip": "60633"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.44732439,
+                    41.6562925
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "E Chicago ISPAT Facility",
+                "FacilityType": "",
+                "Address": "3210 Watling St",
+                "City": "East Chicago",
+                "State": "IN",
+                "Zip": "46312"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.04134496,
+                    41.66209681
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Elkhart Terminal",
+                "FacilityType": "Terminal",
+                "Address": "29925 Co Rd 20",
+                "City": "Elkhart",
+                "State": "IN",
+                "Zip": "46517"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.53597836,
+                    41.56104031
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Des Moines Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "2550 SE 43rd St",
+                "City": "Des Moines",
+                "State": "IA",
+                "Zip": "50327"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.55032323,
+                    39.13622202
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Kansis City Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "1415 Warren St",
+                "City": "North Kansas City",
+                "State": "MO",
+                "Zip": "64116"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.77518859,
+                    38.24055452
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Louisville Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "1310 W Kentucky St",
+                "City": "Louisville",
+                "State": "KY",
+                "Zip": "40210"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.09727638,
+                    37.77702324
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Owensboro Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "1215 E 2nd St",
+                "City": "Owensboro",
+                "State": "KY",
+                "Zip": "42303"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.19043868,
+                    30.50917977
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Baton Rouge Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "1255 Airline Hwy",
+                "City": "Baton Rouge",
+                "State": "LA",
+                "Zip": "70805"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.03210049,
+                    30.01670279
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "New Orleans West Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "5301 France Rd",
+                "City": "New Orleans",
+                "State": "LA",
+                "Zip": "70126"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.24479059,
+                    30.22463572
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Westlake South Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "500 General Portland Rd",
+                "City": "Westlake",
+                "State": "LA",
+                "Zip": "70669"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.24722438,
+                    30.22794811
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Westlake North Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "380 Ideal Cement Rd",
+                "City": "Westlake",
+                "State": "LA",
+                "Zip": "70669"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.54520689,
+                    39.2104222
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Baltimore Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "3800 Hawkins Point Rd",
+                "City": "Baltimore",
+                "State": "MD",
+                "Zip": "21226"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.68284226,
+                    39.65099996
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "South Chicago Cement Terminal/Slag",
+                "FacilityType": "Plant",
+                "Address": "1260 Security Rd",
+                "City": "Hagerstown",
+                "State": "MD",
+                "Zip": "21742"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.46441015,
+                    39.20962838
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Lafarge Sparrows Point Slag Cement Grinding Facility",
+                "FacilityType": "",
+                "Address": "2001 Wharf Rd",
+                "City": "Sparrows Point",
+                "State": "MD",
+                "Zip": "21219"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.06136808,
+                    42.38347013
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Boston Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "285 Medford St",
+                "City": "Charlestown",
+                "State": "MA",
+                "Zip": "2129"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.44921918,
+                    42.15034298
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Hampden Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "2420 Boston Rd",
+                "City": "Wilbraham",
+                "State": "MA",
+                "Zip": "1095"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.72556617,
+                    42.57499269
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Lunenburg Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "541 Leominster Rd",
+                "City": "Lunenburg",
+                "State": "MA",
+                "Zip": "1462"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40640366,
+                    45.07246913
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Alpena Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "1435 Ford Ave",
+                "City": "Alpena",
+                "State": "MI",
+                "Zip": "49707"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.1012961,
+                    42.29245792
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Detroit Cement Terminal/Slag",
+                "FacilityType": "Terminal/Slag",
+                "Address": "1301 Springwells Ct",
+                "City": "Detroit",
+                "State": "MI",
+                "Zip": "48209"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.10146776,
+                    42.29236268
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Drymix Comstock Park Warehouse",
+                "FacilityType": "Warehouse",
+                "Address": "20 N Park St NE",
+                "City": "Grand Rapids",
+                "State": "MI",
+                "Zip": "49544"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.26297566,
+                    43.23111697
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Muskegon Cement Terminal/Slag",
+                "FacilityType": "Terminal/Slag",
+                "Address": "780 W Western Ave",
+                "City": "Muskegon",
+                "State": "MI",
+                "Zip": "49441"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.92691097,
+                    43.45564189
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Saginaw Cement Terminal/Slag",
+                "FacilityType": "Terminal/Slag",
+                "Address": "30 Mapleridge Rd",
+                "City": "Saginaw",
+                "State": "MI",
+                "Zip": "48604"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.92056305,
+                    43.48024772
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Saginaw Flat Storage",
+                "FacilityType": "Flat Storage",
+                "Address": "90 N Adams St",
+                "City": "Saginaw",
+                "State": "MI",
+                "Zip": "48604"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.4812391,
+                    42.11372744
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "St Joseph Cement Terminal/Slag",
+                "FacilityType": "Terminal/Slag",
+                "Address": "200 Upton Dr",
+                "City": "St Joseph",
+                "State": "MI",
+                "Zip": "49085"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.52971589,
+                    42.51825122
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Wixom Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "30350 Wixom Rd",
+                "City": "Wixom",
+                "State": "MI",
+                "Zip": "48393"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.02235153,
+                    44.87484967
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "St. Paul Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "1005 Hardman Ave S",
+                "City": "South St Paul",
+                "State": "MN",
+                "Zip": "55075"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.04684546,
+                    44.93358286
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "St. Paul Child's Road Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "2145 Childs Rd",
+                "City": "St Paul",
+                "State": "MN",
+                "Zip": "55106"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.5309292,
+                    33.36509769
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Artresia Alternative Fuels Site",
+                "FacilityType": "",
+                "Address": "8677 US-45",
+                "City": "Columbus",
+                "State": "MS",
+                "Zip": "39701"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.5309292,
+                    33.36509769
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Artesia Cement Plant Remediation",
+                "FacilityType": "Plant",
+                "Address": "8677 US-45",
+                "City": "Columbus",
+                "State": "MS",
+                "Zip": "39701"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.87958357,
+                    32.38617421
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Vicksburg Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "855 Haining Rd",
+                "City": "Vicksburg",
+                "State": "MS",
+                "Zip": "39183"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.20752262,
+                    38.69319116
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "St. Louis Terminal",
+                "FacilityType": "Terminal",
+                "Address": "111 E Carrie Ave",
+                "City": "St. Louis",
+                "State": "MO",
+                "Zip": "63147"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.26418132,
+                    38.03476319
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Ste. Genevieve Cement Plant",
+                "FacilityType": "Plant",
+                "Address": "2942 US-61",
+                "City": "Bloomsdale",
+                "State": "MO",
+                "Zip": "63627"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.49458083,
+                    41.46163241
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Fremont Terminal",
+                "FacilityType": "Terminal",
+                "Address": "3350 N Broad St",
+                "City": "Fremont",
+                "State": "NE",
+                "Zip": "68025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.07847469,
+                    40.02471851
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Superior, Northeast Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "West 8th St.",
+                "City": "Superior",
+                "State": "NE",
+                "Zip": "68978"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0965247,
+                    40.64986375
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Bayonne Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "6 Commerce St",
+                "City": "Bayonne",
+                "State": "NJ",
+                "Zip": "7002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.6604502,
+                    34.99726961
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Albuquerque",
+                "FacilityType": "Plant",
+                "Address": "5943 Industry Way SE",
+                "City": "Albuquerque",
+                "State": "NM",
+                "Zip": "87105"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.86817095,
+                    42.86204637
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Buffalo Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "575 Ohio St",
+                "City": "Buffalo",
+                "State": "NY",
+                "Zip": "14203"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00209462,
+                    40.66372115
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Brooklyn Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "75 25th St",
+                "City": "Brooklyn",
+                "State": "NY",
+                "Zip": "11232"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.51325269,
+                    43.46276066
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Oswego Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "1 W Van Buren St",
+                "City": "Oswego",
+                "State": "NY",
+                "Zip": "13126"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.82964898,
+                    42.49355264
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Ravena Cement Plant",
+                "FacilityType": "Plant",
+                "Address": "1916 Rte 9W",
+                "City": "Ravena",
+                "State": "NY",
+                "Zip": "12143"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.93049248,
+                    35.27886679
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Charlotte Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "7425 Old Mt Holly Rd",
+                "City": "Charlotte",
+                "State": "NC",
+                "Zip": "28214"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.93023499,
+                    35.27897189
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Durham Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "200 S Goley St",
+                "City": "Durham",
+                "State": "NC",
+                "Zip": "27701"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.23103727,
+                    36.05314826
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Winston-Salem Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "350 Cassell St",
+                "City": "Winston-Salem",
+                "State": "NC",
+                "Zip": "27107"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.64851512,
+                    39.28003947
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Belpre Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "1684 OH-618",
+                "City": "Belpre",
+                "State": "OH",
+                "Zip": "45714"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.57402975,
+                    39.0840017
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Cincinnati River Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "3270 Southside Ave",
+                "City": "Cincinnati",
+                "State": "OH",
+                "Zip": "45204"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.70872651,
+                    41.49770656
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Cleveland Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "2500 Elm St",
+                "City": "Cleveland",
+                "State": "OH",
+                "Zip": "44113"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.94615325,
+                    39.90441115
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Columbus Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "1801 Watkins Rd",
+                "City": "Columbus",
+                "State": "OH",
+                "Zip": "43207"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.35058049,
+                    41.5114886
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Genoa Bagging Facility",
+                "FacilityType": "Bagging",
+                "Address": "21880 W State Rte 163",
+                "City": "Genoa",
+                "State": "OH",
+                "Zip": "43430"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.60383068,
+                    41.18116333
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Paulding Cement Plant",
+                "FacilityType": "Plant",
+                "Address": "11435 Rd 176",
+                "City": "Paulding",
+                "State": "OH",
+                "Zip": "45879"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.52644756,
+                    41.65585785
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Toledo Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "840 Water St",
+                "City": "Toledo",
+                "State": "OH",
+                "Zip": "43604"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.46958623,
+                    41.61709719
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Wickliffe Warehouse",
+                "FacilityType": "Warehouse",
+                "Address": "1135 Worden Rd",
+                "City": "Wickliffe",
+                "State": "OH",
+                "Zip": "44092"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.69433952,
+                    34.76824726
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Ada Cement Plant",
+                "FacilityType": "Plant",
+                "Address": "14500 Cr 1550",
+                "City": "Ada",
+                "State": "OK",
+                "Zip": "74820"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.49317122,
+                    35.61896599
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Edmond Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "4000 S Kelly Ave",
+                "City": "Edmond",
+                "State": "OK",
+                "Zip": "73013"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.28934132,
+                    35.76885166
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Oklahoma G and E Muskogee Utility",
+                "FacilityType": "Utility",
+                "Address": "5501 Three Forks Rd",
+                "City": "Fort Gibson",
+                "State": "OK",
+                "Zip": "74434"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.09240438,
+                    40.45382016
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Pittsburgh Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "1529 Chartiers Vly Ln",
+                "City": "Pittsburgh",
+                "State": "PA",
+                "Zip": "15205"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.50659636,
+                    40.68791709
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Whitehall Cement Plant",
+                "FacilityType": "Plant",
+                "Address": "5160 Main St",
+                "City": "Whitehall Township",
+                "State": "PA",
+                "Zip": "18052"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.39202888,
+                    41.79695166
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Providence Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "139 Terminal Rd",
+                "City": "Providence",
+                "State": "RI",
+                "Zip": "2905"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.94061441,
+                    32.82862112
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Charleston Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "1801 Milford St",
+                "City": "Charleston",
+                "State": "SC",
+                "Zip": "29405"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.38620617,
+                    33.13490216
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Dorchester Alternative Fuels Site",
+                "FacilityType": "Fuel Site",
+                "Address": "2425 US-78",
+                "City": "Dorchester",
+                "State": "SC",
+                "Zip": "29437"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.26808872,
+                    33.36988126
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Georgetown Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "Pier 31 Rd.",
+                "City": "Georgetown",
+                "State": "SC",
+                "Zip": "29442"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.4320717,
+                    33.27392758
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Holly Hill Alternative Fuels Site",
+                "FacilityType": "Fuel Site",
+                "Address": "2175 Gardner Blvd",
+                "City": "Holly Hill",
+                "State": "SC",
+                "Zip": "29059"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.43055003,
+                    33.29076256
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Holly Hill Cement Plant",
+                "FacilityType": "Plant",
+                "Address": "200 Safety Street/Highway 453",
+                "City": "Holly Hill",
+                "State": "SC",
+                "Zip": "29059"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.01882175,
+                    34.99632284
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Spartanburg Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "920 Monks Grove Church Rd",
+                "City": "Spartanburg",
+                "State": "SC",
+                "Zip": "29303"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.88855354,
+                    36.00409197
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Knoxville Bag Warehouse",
+                "FacilityType": "Warehouse",
+                "Address": "1605 Prosser Rd",
+                "City": "Knoxville",
+                "State": "TN",
+                "Zip": "37914"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.12326921,
+                    35.08171267
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Memphis Pl Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "2549 Channel Ave",
+                "City": "Memphis",
+                "State": "TN",
+                "Zip": "38106"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.85765744,
+                    36.17198248
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Nashville West Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "1740 61st Ave N",
+                "City": "Nashville",
+                "State": "TN",
+                "Zip": "37209"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.26102814,
+                    29.73197812
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Houston-West Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "9600 Clinton Dr",
+                "City": "Houston",
+                "State": "TX",
+                "Zip": "77029"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.8547831,
+                    33.61404028
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Lubbock Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "1640 Marshall St",
+                "City": "Lubbock",
+                "State": "TX",
+                "Zip": "79403"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.97370402,
+                    32.51265478
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Midlothian Cement Plant",
+                "FacilityType": "Plant",
+                "Address": "1800 Dove Ln",
+                "City": "Midlothian",
+                "State": "TX",
+                "Zip": "76065"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.7268426,
+                    41.04634213
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Devil's Slide Cement Plant",
+                "FacilityType": "Plant",
+                "Address": "6055 Croydon Rd",
+                "City": "Morgan",
+                "State": "UT",
+                "Zip": "84050"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.97822781,
+                    39.67986054
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Alleganey Fort Martin Utility",
+                "FacilityType": "Utility",
+                "Address": "1 Fort Martin Rd",
+                "City": "Morgantown",
+                "State": "WV",
+                "Zip": "26508"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.02712541,
+                    44.50065498
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Green Bay Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "125 9th St",
+                "City": "Green Bay",
+                "State": "WI",
+                "Zip": "54304"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.25712251,
+                    43.80887313
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "La Crosse Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "618 Cross St",
+                "City": "La Crosse",
+                "State": "WI",
+                "Zip": "54601"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.31088252,
+                    43.1163447
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Madison Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "4124 Sycamore Ave",
+                "City": "Madison",
+                "State": "WI",
+                "Zip": "53714"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.90070768,
+                    43.01714233
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Milwaukee Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "1435 S Carferry Dr",
+                "City": "Milwaukee",
+                "State": "WI",
+                "Zip": "53207"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.901637,
+                    39.86049491
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Denver East Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "7321 E 88th Ave",
+                "City": "Henderson",
+                "State": "CO",
+                "Zip": "80640"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.82149723,
+                    41.78326391
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Summit Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "8001 W 59th St",
+                "City": "Summit",
+                "State": "IL",
+                "Zip": "60501"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.49501643,
+                    41.5256583
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Bettendorf Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "2781 Depot St",
+                "City": "Bettendorf",
+                "State": "IA",
+                "Zip": "52722"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.88541701,
+                    35.98552092
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Morrow Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "1115 Southern Rd",
+                "City": "Morrow",
+                "State": "GA",
+                "Zip": "30260"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.57249877,
+                    30.05703941
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Globalplex Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "1766 LA-44",
+                "City": "Reserve",
+                "State": "LA",
+                "Zip": "70084"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.83938762,
+                    43.6206233
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Lafarge Essexville Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "1505 Main St",
+                "City": "Essexville",
+                "State": "MI",
+                "Zip": "48732"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.84023496,
+                    43.61722249
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Essexville Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "1601 Saline St",
+                "City": "Essexville",
+                "State": "MI",
+                "Zip": "48732"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.47964638,
+                    38.55199186
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Valley Park",
+                "FacilityType": "Terminal",
+                "Address": "701 Marshall Rd",
+                "City": "Valley Park",
+                "State": "MO",
+                "Zip": "63088"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.20765137,
+                    38.69332514
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "St. Louis Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "111 E Carrie Ave",
+                "City": "St. Louis",
+                "State": "MO",
+                "Zip": "63147"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.84210579,
+                    40.76732782
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "College Point Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "3130 College Point Blvd",
+                "City": "Flushing",
+                "State": "NY",
+                "Zip": "11354"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.11236739,
+                    35.08835627
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Memphis Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "2169 Channel Ave",
+                "City": "Memphis",
+                "State": "TN",
+                "Zip": "38109"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.7509506,
+                    35.29968564
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "XCEL-HARRINGTON UTILITY",
+                "FacilityType": "Utility",
+                "Address": "9000 N Lakeside Dr",
+                "City": "Amarillo",
+                "State": "TX",
+                "Zip": "79108"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.07336441,
+                    46.73195611
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Superior Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "3 Hill Ave",
+                "City": "Superior",
+                "State": "WI",
+                "Zip": "54880"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.61767424,
+                    40.38673975
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Weirton Cement Terminal",
+                "FacilityType": "Terminal",
+                "Address": "Terminal Drive",
+                "City": "Weirton",
+                "State": "WV",
+                "Zip": "26062"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.8341841,
+                    40.37836608
+                ]
+            },
+            "properties": {
+                "CompanyName": "Holcim",
+                "FacilityName": "Lehi Terminal",
+                "FacilityType": "Terminal",
+                "Address": "850 Mill Pond Rd",
+                "City": "Lehi",
+                "State": "UT",
+                "Zip": "84043"
+            }
+        }
+    ]
+}
